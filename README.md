@@ -1,4 +1,4 @@
-# OpenClaw 🦞 — Your assistant, on your devices, in your chats
+
 
 <p align="center">
   <picture>
